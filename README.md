@@ -1,18 +1,22 @@
-[English Version](README_en.md) 
+[中文版](README_ch.md) | [English Version](README.md)
 
-# 项目名称 
+# Project Name 
 
-这是一个用C++编写的程序，用于一次性启动多个Windows软件。 
+This is a C++ program designed to launch multiple Windows software applications at once.
 
-## 文件说明 
+## File description
 
- `main.cpp`: 主程序文件，包含所有代码。 
+`main.cpp`: The main program file containing all the code.
 
-`DailySoftWares.txt`：存放需要启动的软件的exe位置
+`DailySoftWares.txt`: Stores the paths to the executable files of the software that needs to be launched.
 
-## ## 代码说明 
+## Code Description 
 
-这个项目是用来在开机时一次性启动多个软件的，不需要自己再手动一个一个点击。
+This project is designed to launch multiple software applications at once during startup, eliminating the need to manually click and open each one individually.
+
+
+
+
 
 
 
