@@ -1,0 +1,6 @@
+"C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe" www.bilibili.com  music.163.com chatgpt.com 
+D:\WeChat\WeChat.exe
+D:\QQ\Bin\QQScLauncher.exe
+cmd.exe /c start "" "C:\Users\10293\AppData\Local\Obsidian\Obsidian.exe"
+D:\QQ\Bin\QQScLauncher.exe
+D:\Anki\anki.exe
