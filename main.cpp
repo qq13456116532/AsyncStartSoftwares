@@ -68,7 +68,7 @@ void executeCmd(const wstring& name) {
 }
 int main() {
     //startSoftWare(L"notepad");
-    vector<string> commands = InputNames("D:/DailySoftWares.txt");
+    vector<string> commands = InputNames("DailySoftWares.txt");
     for (const string& cmd : commands) {
         wstring wcmd = stringTowstring(cmd);
         cout << "current starting software is：  " << cmd<<endl;
